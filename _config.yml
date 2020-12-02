@@ -23,12 +23,18 @@ email: wrhorton592@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
      Testing github pages.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "weshorton.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+#collections_dir: collections
+collections:
+  truckCamper:
+    output: true
+#  test1:
+#  test2:
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Test adding to index.markdown.
