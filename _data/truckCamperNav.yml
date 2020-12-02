@@ -1,0 +1,11 @@
+truck_list_title: Truck Sections
+items:
+
+- title: Main
+  url: /truckCamper/truckMain.html
+
+- title: Interior
+  url: /truckCamper/truckInterior.html
+
+- title: Test
+  url: /truckCamper/truckTest.html
